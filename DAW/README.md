@@ -13,6 +13,7 @@ Requirements:
 - Go 1.21+
 
 ```bash
+go mod init beatui
 go mod tidy
 go run .
 ```
